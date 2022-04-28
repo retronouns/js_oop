@@ -1,0 +1,11 @@
+{
+  "name": "oop-play",
+  "version": "1.0.0",
+  "description": "",
+  "main": "oop.mjs",
+  "scripts": {
+    "start": "node oop.mjs"
+  },
+  "author": "",
+  "license": "ISC"
+}
